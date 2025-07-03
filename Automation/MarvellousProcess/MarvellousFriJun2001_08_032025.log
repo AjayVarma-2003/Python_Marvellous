@@ -1,0 +1,388 @@
+--------------------------------------------------------------------------------
+		Marvellous Infosystems Process Log
+		Log file is created at : Fri Jun 20 01:08:03 2025
+--------------------------------------------------------------------------------{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System Idle Process', 'pid': 0, 'vms': 0.05859375} 
+
+{'username': 'NT AUTHORITY\\SYSTEM', 'name': 'System', 'pid': 4, 'vms': 0.2578125} 
+
+{'username': None, 'name': 'Registry', 'pid': 100, 'vms': 7.515625} 
+
+{'username': None, 'name': 'smss.exe', 'pid': 420, 'vms': 1.05078125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'conhost.exe', 'pid': 520, 'vms': 6.171875} 
+
+{'username': None, 'name': 'csrss.exe', 'pid': 612, 'vms': 1.90234375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 636, 'vms': 7.29296875} 
+
+{'username': None, 'name': 'wininit.exe', 'pid': 688, 'vms': 1.37890625} 
+
+{'username': None, 'name': 'csrss.exe', 'pid': 696, 'vms': 2.5546875} 
+
+{'username': None, 'name': 'winlogon.exe', 'pid': 760, 'vms': 2.5234375} 
+
+{'username': None, 'name': 'services.exe', 'pid': 832, 'vms': 5.34765625} 
+
+{'username': None, 'name': 'SearchIndexer.exe', 'pid': 848, 'vms': 28.41015625} 
+
+{'username': None, 'name': 'lsass.exe', 'pid': 852, 'vms': 8.0546875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 928, 'vms': 2.3046875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 980, 'vms': 10.28515625} 
+
+{'username': None, 'name': 'fontdrvhost.exe', 'pid': 1008, 'vms': 2.77734375} 
+
+{'username': None, 'name': 'fontdrvhost.exe', 'pid': 1016, 'vms': 1.734375} 
+
+{'username': None, 'name': 'dwm.exe', 'pid': 1048, 'vms': 43.125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1064, 'vms': 4.23046875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1204, 'vms': 1.6875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1216, 'vms': 2.43359375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1224, 'vms': 1.16796875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1232, 'vms': 2.2578125} 
+
+{'username': None, 'name': 'SecurityHealthService.exe', 'pid': 1264, 'vms': 4.76953125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1344, 'vms': 13.9765625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1352, 'vms': 1.50390625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1396, 'vms': 6.01953125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1412, 'vms': 3.21484375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1492, 'vms': 1.93359375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1500, 'vms': 1.34375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1508, 'vms': 1.5859375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1516, 'vms': 1.41796875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1572, 'vms': 3.96875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1600, 'vms': 2.4375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1664, 'vms': 1.74609375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1668, 'vms': 1.95703125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1748, 'vms': 1.86328125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1756, 'vms': 1.1875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1768, 'vms': 1.87109375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'OneDrive.exe', 'pid': 1780, 'vms': 49.8984375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1896, 'vms': 4.35546875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 1904, 'vms': 2.1171875} 
+
+{'username': None, 'name': 'igfxCUIService.exe', 'pid': 1960, 'vms': 1.89453125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2032, 'vms': 2.91015625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2108, 'vms': 1.3515625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'conhost.exe', 'pid': 2152, 'vms': 7.33984375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'EMAILSCN.EXE', 'pid': 2256, 'vms': 10.05078125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2292, 'vms': 2.140625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 2300, 'vms': 191.0234375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2352, 'vms': 1.4609375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 2364, 'vms': 28.453125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2456, 'vms': 2.59765625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2484, 'vms': 12.14453125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2540, 'vms': 2.7890625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2556, 'vms': 1.87109375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'igfxEM.exe', 'pid': 2600, 'vms': 7.23046875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2672, 'vms': 3.06640625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 2696, 'vms': 42.7578125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'powershell.exe', 'pid': 2796, 'vms': 58.8125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'conhost.exe', 'pid': 2804, 'vms': 6.1796875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2844, 'vms': 2.4453125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2852, 'vms': 2.67578125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2876, 'vms': 6.00390625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2920, 'vms': 3.1875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 2956, 'vms': 6.171875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3020, 'vms': 4.78515625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3064, 'vms': 2.18359375} 
+
+{'username': None, 'name': 'spoolsv.exe', 'pid': 3092, 'vms': 5.10546875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 3112, 'vms': 6.46875} 
+
+{'username': None, 'name': 'dasHost.exe', 'pid': 3132, 'vms': 5.703125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3156, 'vms': 8.0859375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'CodeSetup-stable-18e3a1ec544e6907be1e944a94c496e302073435.tmp', 'pid': 3176, 'vms': 23.18359375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3208, 'vms': 1.83984375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'pet.exe', 'pid': 3336, 'vms': 1.54296875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3372, 'vms': 2.4921875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3380, 'vms': 1.59375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'SearchApp.exe', 'pid': 3500, 'vms': 123.75390625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3504, 'vms': 30.0390625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3516, 'vms': 15.38671875} 
+
+{'username': None, 'name': 'APCONSVC.EXE', 'pid': 3524, 'vms': 16.4921875} 
+
+{'username': None, 'name': 'armsvc.exe', 'pid': 3540, 'vms': 1.54296875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3548, 'vms': 2.62109375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3624, 'vms': 1.53125} 
+
+{'username': None, 'name': 'NPProt.exe', 'pid': 3632, 'vms': 0.84765625} 
+
+{'username': None, 'name': 'NPBKPSRV.EXE', 'pid': 3652, 'vms': 1.796875} 
+
+{'username': None, 'name': 'MpDefenderCoreService.exe', 'pid': 3660, 'vms': 9.16015625} 
+
+{'username': None, 'name': 'NPHOST.EXE', 'pid': 3668, 'vms': 6.734375} 
+
+{'username': None, 'name': 'NP2022AB.EXE', 'pid': 3688, 'vms': 2.04296875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3712, 'vms': 6.4765625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3720, 'vms': 1.80078125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3744, 'vms': 1.22265625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 3768, 'vms': 20.30078125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3812, 'vms': 4.0390625} 
+
+{'username': None, 'name': 'UltraViewer_Service.exe', 'pid': 3824, 'vms': 22.17578125} 
+
+{'username': None, 'name': 'MsMpEng.exe', 'pid': 3844, 'vms': 278.16796875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3860, 'vms': 2.17578125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3896, 'vms': 1.41015625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 3916, 'vms': 1.87890625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'ZVMOUNT.EXE', 'pid': 3936, 'vms': 3.09375} 
+
+{'username': None, 'name': 'SearchFilterHost.exe', 'pid': 3940, 'vms': 1.48046875} 
+
+{'username': None, 'name': 'WEBPROT2.EXE', 'pid': 3984, 'vms': 8.8671875} 
+
+{'username': None, 'name': 'LANMON3.EXE', 'pid': 4012, 'vms': 3.55859375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'RuntimeBroker.exe', 'pid': 4168, 'vms': 1.42578125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 4184, 'vms': 111.6171875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 4240, 'vms': 1.953125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 4248, 'vms': 1.48828125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 4352, 'vms': 1.8671875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 4364, 'vms': 3.31640625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'svchost.exe', 'pid': 4376, 'vms': 2.8515625} 
+
+{'username': None, 'name': 'conhost.exe', 'pid': 4836, 'vms': 6.1796875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'igfxHK.exe', 'pid': 5012, 'vms': 5.49609375} 
+
+{'username': None, 'name': 'NPAVIDS.EXE', 'pid': 5052, 'vms': 8.18359375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'ctfmon.exe', 'pid': 5068, 'vms': 4.33984375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'igfxTray.exe', 'pid': 5140, 'vms': 7.85546875} 
+
+{'username': None, 'name': 'ZVCMD64.EXE', 'pid': 5312, 'vms': 0.6328125} 
+
+{'username': None, 'name': 'conhost.exe', 'pid': 5492, 'vms': 6.1875} 
+
+{'username': None, 'name': 'dllhost.exe', 'pid': 5544, 'vms': 3.515625} 
+
+{'username': None, 'name': 'WmiPrvSE.exe', 'pid': 5564, 'vms': 7.38671875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 5648, 'vms': 71.91796875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 5664, 'vms': 1.58203125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'taskhostw.exe', 'pid': 5736, 'vms': 7.14453125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 5988, 'vms': 1.8046875} 
+
+{'username': None, 'name': 'SgrmBroker.exe', 'pid': 6120, 'vms': 4.4453125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 6180, 'vms': 3.71484375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'AdobeCollabSync.exe', 'pid': 6236, 'vms': 10.6875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 6312, 'vms': 150.1484375} 
+
+{'username': None, 'name': 'NP2120CL.EXE', 'pid': 6348, 'vms': 4.54296875} 
+
+{'username': None, 'name': 'conhost.exe', 'pid': 6364, 'vms': 6.1796875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'StartMenuExperienceHost.exe', 'pid': 6372, 'vms': 26.59765625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 6440, 'vms': 2.1484375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 6480, 'vms': 2.9296875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 6516, 'vms': 42.04296875} 
+
+{'username': None, 'name': 'ZVMonNt.exe', 'pid': 6608, 'vms': 55.8359375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 6628, 'vms': 83.79296875} 
+
+{'username': None, 'name': 'EMON.EXE', 'pid': 6704, 'vms': 9.01953125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'svchost.exe', 'pid': 6712, 'vms': 8.2578125} 
+
+{'username': None, 'name': 'NisSrv.exe', 'pid': 6732, 'vms': 3.8828125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 6736, 'vms': 4.07421875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'sihost.exe', 'pid': 6844, 'vms': 5.63671875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'UserOOBEBroker.exe', 'pid': 6896, 'vms': 1.96484375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'svchost.exe', 'pid': 7080, 'vms': 8.31640625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 7316, 'vms': 348.109375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'explorer.exe', 'pid': 7336, 'vms': 90.53125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 7428, 'vms': 887.37109375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Video.UI.exe', 'pid': 7440, 'vms': 18.43359375} 
+
+{'username': None, 'name': 'conhost.exe', 'pid': 7480, 'vms': 6.48046875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 7616, 'vms': 91.3515625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'unsecapp.exe', 'pid': 7636, 'vms': 1.94140625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'svchost.exe', 'pid': 7692, 'vms': 7.49609375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 7704, 'vms': 11.8828125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'pet.exe', 'pid': 7792, 'vms': 1.4140625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'RuntimeBroker.exe', 'pid': 7880, 'vms': 5.7109375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'NPAV4.EXE', 'pid': 7952, 'vms': 10.65234375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'msedge.exe', 'pid': 8184, 'vms': 7.9609375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'msedge.exe', 'pid': 8188, 'vms': 2.01953125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 8240, 'vms': 32.9453125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 8308, 'vms': 17.05078125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'RuntimeBroker.exe', 'pid': 8344, 'vms': 7.69140625} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 8576, 'vms': 2.7109375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 8692, 'vms': 370.51171875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'powershell.exe', 'pid': 8708, 'vms': 58.4609375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'conhost.exe', 'pid': 8968, 'vms': 1.22265625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'SecurityHealthSystray.exe', 'pid': 9000, 'vms': 1.703125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 9300, 'vms': 86.5234375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 9368, 'vms': 425.69921875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'TextInputHost.exe', 'pid': 9524, 'vms': 14.40234375} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 9636, 'vms': 2.9296875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'msedge.exe', 'pid': 9644, 'vms': 10.71484375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'msedge.exe', 'pid': 9680, 'vms': 41.609375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'msedge.exe', 'pid': 9744, 'vms': 15.35546875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'RuntimeBroker.exe', 'pid': 9756, 'vms': 4.16015625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'svchost.exe', 'pid': 9768, 'vms': 1.69140625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 9812, 'vms': 20.6875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'ShellExperienceHost.exe', 'pid': 9848, 'vms': 24.01953125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 9888, 'vms': 86.56640625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'RuntimeBroker.exe', 'pid': 9988, 'vms': 4.98828125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'conhost.exe', 'pid': 10032, 'vms': 1.22265625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'SystemSettingsBroker.exe', 'pid': 10068, 'vms': 3.4765625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'AdobeCollabSync.exe', 'pid': 10352, 'vms': 7.07421875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 10380, 'vms': 9.3828125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'CodeSetup-stable-18e3a1ec544e6907be1e944a94c496e302073435.exe', 'pid': 10464, 'vms': 7.03125} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 10504, 'vms': 1.6171875} 
+
+{'username': None, 'name': 'svchost.exe', 'pid': 10656, 'vms': 2.81640625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 10672, 'vms': 20.38671875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 10904, 'vms': 10.34375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 11000, 'vms': 69.93359375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 11048, 'vms': 894.23828125} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'Code.exe', 'pid': 11108, 'vms': 195.19921875} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'cmd.exe', 'pid': 11112, 'vms': 2.53515625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'chrome.exe', 'pid': 11196, 'vms': 24.5625} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'SearchProtocolHost.exe', 'pid': 13032, 'vms': 1.83984375} 
+
+{'username': 'DESKTOP-8SI1S40\\Admin', 'name': 'python.exe', 'pid': 13192, 'vms': 10.46484375} 
+
+--------------------------------------------------------------------------------
